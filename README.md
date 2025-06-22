@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/saayush615" target="blank"><img src="https://img.shields.io/twitter/follow/saayush615?logo=twitter&style=for-the-badge" alt="saayush615" /></a> </p>
 
-- 🔭 I’m currently working on [xyz](xyz)
+- 🔭 I’m currently working on [FeedBack Form app]([xyz](https://github.com/saayush615/Feedback_react))
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 👯 I’m looking to collaborate on [xyz](xyz)
-
-- 👨‍💻 All of my projects are available at [abc](abc)
+- 👨‍💻 All of my projects are available at [saayush](https://github.com/saayush615)
 
 - 📝 I regularly write articles on [https://dev.to/singhaayush](https://dev.to/singhaayush)
 
