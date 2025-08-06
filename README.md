@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/saayush615" target="blank"><img src="https://img.shields.io/twitter/follow/saayush615?logo=twitter&style=for-the-badge" alt="saayush615" /></a> </p>
 
-- 🔭 I’m currently working on [FeedBack_Form_app](https://github.com/saayush615/Feedback_react)
+- 🔭 I’m currently working on [CommitLog](https://github.com/saayush615/CommitLog)
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **FullStack Development**
 
 - 👨‍💻 All of my projects are available at [saayush](https://github.com/saayush615)
 
