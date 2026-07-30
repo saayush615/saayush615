@@ -2,23 +2,10 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-<h3 align="center">Pursuing B.E | Learning to code | Web Fullstack</h3>
 
 <p align="left"> <a href="https://twitter.com/saayush615" target="blank"><img src="https://img.shields.io/twitter/follow/saayush615?logo=twitter&style=for-the-badge" alt="saayush615" /></a> </p>
 
-- 🔭 I’m currently working on [Medi-Audit](https://github.com/saayush615/Medi-Audit/tree/main) & [Ecobazar](https://github.com/saayush615/Ecobazar)
-
-- 🌱 I’m currently learning **FullStack Development**
-  
-- Worked on **Reactjs**, **Nodejs**, **MongoDB**, **Expressjs**
-
-- 👨‍💻 All of my projects are available at [saayush](https://github.com/saayush615)
-
-- 📝 I regularly write articles on [https://dev.to/singhaayush](https://dev.to/singhaayush)
-
-- 📫 How to reach me **saayush615@gmail.com**
-
-- Currently looking for an internship!
+- 🔭 I’m currently working on [Ecobazar](https://github.com/saayush615/Ecobazar)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
