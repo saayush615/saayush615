@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/saayush615" target="blank"><img src="https://img.shields.io/twitter/follow/saayush615?logo=twitter&style=for-the-badge" alt="saayush615" /></a> </p>
 
 - Full stack Intern @Instaplex solution | Worked on CRM software.
-- Currently working on [EcoBazar](https://github.com/saayush615/Ecobazar) & [DevDocs-copilot](https://github.com/saayush615/DevDocs]
+- Currently working on [EcoBazar](https://github.com/saayush615/Ecobazar) & [DevDocs-copilot](https://github.com/saayush615/DevDocs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
