@@ -31,7 +31,8 @@
 <img align="center" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="PostgreSQL" title="PostgreSQL" height="50" width="50" />
 <img align="center" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" title="Redis" height="50" width="50" />
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="50" width="50" />
-<img align="center" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" title="AWS" height="50" width="50" />
+<img align="center" src="https://raw.githubusercontent.com/saayush615/saayush615/main/assets/aws.svg" alt="AWS" title="AWS" height="50" width="50" />
+<img align="center" src="https://raw.githubusercontent.com/saayush615/saayush615/main/assets/aws.svg" alt="AWS" title="AWS" height="50" width="50" />
 <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" height="50" width="50" />
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" height="50" width="50" />
 <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" height="50" width="50" />
