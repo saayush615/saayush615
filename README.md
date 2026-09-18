@@ -17,27 +17,17 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-<img align="center" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="singhaayush079" height="50" width="50" />  <img align="center" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="singhaayush079" height="50" width="50" /> <img align="center" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="singhaayush079" height="50" width="50" /> <img align="center" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="singhaayush079" height="50" width="50" />
+<img align="center" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript" title="Javascript" height="50" width="50" />  <img align="center" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" title="Typescript" height="50" width="50" /> <img align="center" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" height="50" width="50" /> <img align="center" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" height="50" width="50" />
 </p>
 
-<h3 align="left">Framework & Tools:</h3>
-<p align="left">
-<img align="center" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" title="React" height="50" width="50" />
-<img align="center" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" title="Node.js" height="50" width="50" />
-<img align="center" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" title="Next.js" height="50" width="50" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" title="Express.js" height="50" width="50" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" height="50" width="50" />
-<img align="center" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" height="50" width="50" />
-<img align="center" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="PostgreSQL" title="PostgreSQL" height="50" width="50" />
-<img align="center" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" title="Redis" height="50" width="50" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="50" width="50" />
-<img align="center" src="https://raw.githubusercontent.com/saayush615/saayush615/main/assets/aws.svg" alt="AWS" title="AWS" height="50" width="50" />
-<img align="center" src="https://raw.githubusercontent.com/saayush615/saayush615/main/assets/aws.svg" alt="AWS" title="AWS" height="50" width="50" />
-<img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" title="Tailwind CSS" height="50" width="50" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" height="50" width="50" />
-<img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" height="50" width="50" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/openai.svg" alt="OpenAI" title="OpenAI" height="50" width="50" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/langchain.svg" alt="LangChain" title="LangChain" height="50" width="50" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/cursor.svg" alt="Cursor" title="Cursor" height="50" width="50" />
-<img align="left" src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="OpenCode" title="OpenCode" height="28" />
-</p>
+### Skills
+
+**Frontend:** React, Next.js, React Router, TanStack Query, Tailwind CSS, Vite, shadcn/ui
+
+**Backend:** Node.js, Express.js, FastAPI, REST APIs, JWT, OAuth 2.0
+
+**Databases:** MongoDB, PostgreSQL, Redis
+
+**AI/GenAI:** RAG, Agentic Ai, LangChain, LangGraph, Vector Databases, OpenAI SDK
+
+**Deployment & DevOps:** Docker, AWS, Azure, Vercel, GitHub Actions, Git, GitHub, Postman
